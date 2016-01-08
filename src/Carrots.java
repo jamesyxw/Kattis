@@ -1,4 +1,4 @@
-package kattis_java;
+
 
 /**
  * Solution for Kattis problem-id: carrots
@@ -7,15 +7,15 @@ package kattis_java;
  * Author: James Wang
  */
 
-public class Carrot {
+public class Carrots {
 	
 	private Kattio io = new Kattio(System.in);
 	
 	public static void main(String[] args){
-		new Carrot();
+		new Carrots();
 	}
 	
-	public Carrot(){
+	public Carrots(){
 		int numContestant = io.getInt();
 		int numProblems = io.getInt();
 		
