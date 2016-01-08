@@ -1,5 +1,3 @@
-
-
 /**
  * Solution for Kattis problem-id: carrots
  * https://open.kattis.com/problems/carrots

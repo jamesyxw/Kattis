@@ -1,4 +1,6 @@
-
+/**
+ * The IO utility provided by Kattis
+ */
 
 import java.util.StringTokenizer;
 import java.io.BufferedReader;
